@@ -1,4 +1,4 @@
-# Scoop Bucket Template
+# Genshin Impact Scoop Bucket
 
 <!-- Uncomment the following line after replacing placeholders -->
 [![Build Status](https://ci.appveyor.com/api/projects/status/8icx0a4299018duy?svg=true)](https://ci.appveyor.com/project/LazyGeniusMan/scoop-genshin "Build Status") [![Excavator](https://github.com/LazyGeniusMan/Scoop-Genshin/actions/workflows/excavator.yml/badge.svg)](https://github.com/LazyGeniusMan/Scoop-Genshin/actions/workflows/excavator.yml)
@@ -35,9 +35,9 @@ You can install, update, and uninstall multiple app in one command, separate `<a
 
 For more info, run `scoop -h` or visit [Scoop Documentation](https://scoop-docs.vercel.app/)
 
-How do I contribute new manifests?
+Genshin Impact Tools you are looking for isn't in the bucket ?
 ----------------------------------
 
-To make a new manifest conribution, please read the [Contributing Guide](https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md).
+To add a new app, you need to make something called an app manifest. If you want to request an app, you can open an issue. If you want to make it yourself and open a PR, please read the [Contributing Guide](https://github.com/ScoopInstaller/.github/blob/main/.github/CONTRIBUTING.md).
 
 ----
