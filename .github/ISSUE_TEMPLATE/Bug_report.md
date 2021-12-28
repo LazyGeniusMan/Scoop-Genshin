@@ -13,8 +13,8 @@ labels: "bug"
 
 <!--
   If your app data is lost after update, likely it's because folder that contain user data in the app directory isn't set as persist folder in the app manifest.
-  If this happen, please tell me what's the folder name that contain those user data. It will help me a lot to fix it.
-  As temporary solution, you can go to "%userprofile%/scoop/apps/<app-name>/" and go to older version folder to recover your data and paste it in the new version folder.
+  If this happen, please tell me what's the folder path that contain those user data when you create a new issue. It will help me a lot to fix it.
+  As a temporary solution, you can go to `%userprofile%\scoop\apps\<app-name>\` and go to older version folder to recover your data and paste it in the new version folder.
 -->
 
 ## Bug Report
