@@ -2,7 +2,7 @@
     "version": "0.3.4",
     "description": "Monte carlo combat simulation for Genshin Impact.",
     "homepage": "https://github.com/genshinsim/gcsimui/",
-    "license": " MIT",
+    "license": "Unknown",
     "architecture": {
         "64bit": {
             "url": "https://github.com/genshinsim/gcsimui/releases/download/gcsim-v0.3.4/gcsim_0.3.4_x64.msi",
