@@ -5,36 +5,45 @@
 
 This repository is a scoop bucket for Genshin Impact related tools.
 
-How do I use these App?
+How do I install these App?
 ---------------------------------
 
-### Install Scoop (skip if you have installed scoop)
+### 1. Install Scoop (skip if you have installed scoop)
 Follow instruction here: [https://github.com/ScoopInstaller/scoop#installation](https://github.com/ScoopInstaller/scoop#installation)
 
 ##### TL;DR
-Run (in Powershell):
+Open Powershell, and then run this to install scoop:
 ```
 iwr -useb get.scoop.sh | iex
 ```
 
-### Add this bucket to your Scoop (skip if you have added this bucket)
+Note: if you get an error you might need to change the execution policy (i.e. enable Powershell) with:
+```
+Set-ExecutionPolicy RemoteSigned -scope CurrentUser
+```
+After that, rerun the command to install scoop.
+
+### 2. Add this bucket to your Scoop (skip if you have added this bucket)
 Run (in Powershell):
 ```
 scoop bucket add Scoop-Genshin https://github.com/LazyGeniusMan/Scoop-Genshin
 ```
 
-### (Optional) enable multi-connection downloads
+### 3. (Optional) enable multi-connection downloads
 Run (in Powershell):
 ```
 scoop install aria2
 ```
 
-### Install the App
+### 4. Install the App
 Run (in Powershell):
 ```
 scoop install <app-name>
 ```
 List of apps can be found here: [https://github.com/LazyGeniusMan/Scoop-Genshin/tree/main/bucket](https://github.com/LazyGeniusMan/Scoop-Genshin/tree/main/bucket)
+
+How do I manage these App?
+---------------------------------
 
 ### Check available update
 Run (in Powershell):
