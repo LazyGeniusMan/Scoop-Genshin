@@ -1,0 +1,28 @@
+{
+    "version": "2.3.2",
+    "description": "A simple desktop application to scan and export Genshin Impact Artifacts and Materials.",
+    "homepage": "https://github.com/daydreaming666/Amenoma/",
+    "license": "GPL-3.0-or-later",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/daydreaming666/Amenoma/releases/download/2.3.2/Amenoma_EN2.3.2.zip",
+            "hash": "785f4c5dbc4e362089286cc056e4f205eb3c9bce5375a7ac55cc98d306eb887b",
+            "extract_dir": "Amenoma_EN"
+        }
+    },
+    "shortcuts": [
+        [
+            "Amenoma_EN.exe",
+            "Amenoma EN"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/daydreaming666/Amenoma/releases/download/$version/Amenoma_EN$version.zip",
+                "extract_dir": "Amenoma_EN"
+            }
+        }
+    }
+}
