@@ -19,11 +19,15 @@ iwr -useb get.scoop.sh | iex
 
 ### Add this bucket to your Scoop (skip if you have added this bucket)
 Run (in Powershell):
-`scoop bucket add Scoop-Genshin https://github.com/LazyGeniusMan/Scoop-Genshin` in Powershell.
+```
+scoop bucket add Scoop-Genshin https://github.com/LazyGeniusMan/Scoop-Genshin
+```
 
 ### (Optional) enable multi-connection downloads
 Run (in Powershell):
-`scoop install aria2`
+```
+scoop install aria2
+```
 
 ### Install the App
 Run (in Powershell):
