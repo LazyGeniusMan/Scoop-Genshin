@@ -20,9 +20,9 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/D1firehail/AdeptiScanner-GI/releases/download/V$version/AdeptiScanner.V$version.zip"
-            },
-            "extract_dir": "AdeptiScanner"
+                "url": "https://github.com/D1firehail/AdeptiScanner-GI/releases/download/V$version/AdeptiScanner.V$version.zip",
+                "extract_dir": "AdeptiScanner"
+            }
         }
     }
 }
