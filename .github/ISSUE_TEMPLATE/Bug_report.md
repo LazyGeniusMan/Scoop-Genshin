@@ -11,6 +11,12 @@ labels: "bug"
   Incomplete form details below might also result in closing of the issue.
 -->
 
+<!--
+  If your app data is lost after update, likely it's because folder that contain user data in the app directory isn't set as persist folder in the app manifest.
+  If this happen, please tell me what's the folder name that contain those user data. It will help me a lot to fix it.
+  As temporary solution, you can go to "%userprofile%/scoop/apps/<app-name>/" and go to older version folder to recover your data and paste it in the new version folder.
+-->
+
 ## Bug Report
 
 **Package Name:** [name of package which has bug(s)]
