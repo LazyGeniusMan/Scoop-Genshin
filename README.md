@@ -11,24 +11,44 @@ How do I use these App?
 ### Install Scoop (skip if you have installed scoop)
 Follow instruction here: [https://github.com/ScoopInstaller/scoop#installation](https://github.com/ScoopInstaller/scoop#installation)
 
-TL;DR : run `iwr -useb get.scoop.sh | iex` in Powershell
+##### TL;DR
+Run (in Powershell):
+```
+iwr -useb get.scoop.sh | iex
+```
 
 ### Add this bucket to your Scoop (skip if you have added this bucket)
-Run `scoop bucket add Scoop-Genshin https://github.com/LazyGeniusMan/Scoop-Genshin` in Powershell.
+Run (in Powershell):
+`scoop bucket add Scoop-Genshin https://github.com/LazyGeniusMan/Scoop-Genshin` in Powershell.
+
+### (Optional) enable multi-connection downloads
+Run (in Powershell):
+`scoop install aria2`
 
 ### Install the App
-Run `scoop install <app-name>` in Powershell.
-
+Run (in Powershell):
+```
+scoop install <app-name>
+```
 List of apps can be found here: [https://github.com/LazyGeniusMan/Scoop-Genshin/tree/main/bucket](https://github.com/LazyGeniusMan/Scoop-Genshin/tree/main/bucket)
 
 ### Check available update
-Run `scoop status` in Powershell.
+Run (in Powershell):
+```
+scoop status
+```
 
 ### Update App
-Rub `scoop update <app-name>`
+Run (in Powershell):
+```
+scoop update <app-name>
+```
 
 ### Uninstall App
-Rub `scoop uninstall <app-name>`
+Run (in Powershell):
+```
+scoop uninstall <app-name>
+```
 
 ### Tips
 You can install, update, and uninstall multiple app in one command, separate `<app-name>` by space.
