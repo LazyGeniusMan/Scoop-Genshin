@@ -1,12 +1,12 @@
 {
-    "version": "0.3.3",
+    "version": "0.3.4",
     "description": "Monte carlo combat simulation for Genshin Impact.",
     "homepage": "https://github.com/genshinsim/gcsimui/",
     "license": " MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/genshinsim/gcsimui/releases/download/gcsim-v0.3.3/gcsim_0.3.3_x64.msi",
-            "hash": "43a78c8130b4b6ca7c26d86fb69d546d0a768260198f3df1daf15fd7bceb67d2"
+            "url": "https://github.com/genshinsim/gcsimui/releases/download/gcsim-v0.3.4/gcsim_0.3.4_x64.msi",
+            "hash": "e3d6b4285dd0518c149cdc683dcac5ee8ea0074be0296944129556ae0a0194d8"
         }
     },
     "shortcuts": [
