@@ -11,7 +11,7 @@ How do I install these App?
 ### 1. Install Scoop (skip if you have installed scoop)
 Follow instruction here: [https://github.com/ScoopInstaller/scoop#installation](https://github.com/ScoopInstaller/scoop#installation)
 
-##### TL;DR
+**TL;DR**
 Open Powershell, and then run this to install scoop:
 ```
 iwr -useb get.scoop.sh | iex
