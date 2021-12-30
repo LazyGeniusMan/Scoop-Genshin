@@ -57,6 +57,14 @@ Run (in Powershell):
 scoop update <app-name>
 ```
 
+### Remove App old version installation
+[WARNING: Make sure your app data/setting is not lost after update, if your app data/setting is lost dont run this command and click this text](https://github.com/LazyGeniusMan/Scoop-Genshin/issues/6)
+
+Run (in Powershell):
+```
+scoop cleanup <app-name>
+```
+
 ### Uninstall App
 Run (in Powershell):
 ```
@@ -64,7 +72,7 @@ scoop uninstall <app-name>
 ```
 
 ### Tips
-You can install, update, and uninstall multiple app in one command, separate `<app-name>` by space.
+You can install, update, cleanup and uninstall multiple app in one command, separate `<app-name>` by space.
 
 For more info, run `scoop -h` or visit [Scoop Documentation](https://scoop-docs.vercel.app/)
 
