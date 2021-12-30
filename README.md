@@ -3,7 +3,7 @@
 <!-- Uncomment the following line after replacing placeholders -->
 [![Build Status](https://ci.appveyor.com/api/projects/status/8icx0a4299018duy?svg=true)](https://ci.appveyor.com/project/LazyGeniusMan/scoop-genshin "Build Status") [![Excavator](https://github.com/LazyGeniusMan/Scoop-Genshin/actions/workflows/excavator.yml/badge.svg)](https://github.com/LazyGeniusMan/Scoop-Genshin/actions/workflows/excavator.yml)
 
-This repository is a scoop bucket for Genshin Impact related tools.
+This repository is a [Scoop](https://github.com/ScoopInstaller/scoop) bucket for Genshin Impact related tools.
 
 How do I install these App?
 ---------------------------------
