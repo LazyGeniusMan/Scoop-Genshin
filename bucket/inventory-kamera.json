@@ -20,8 +20,8 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/Andrewthe13th/Inventory_Kamera/releases/download/v$version/Inventory_Kamera_V$version.zip",
-                "extract_dir": "Inventory_Kamera_V$version"
+                "url": "https://github.com/Andrewthe13th/Inventory_Kamera/releases/download/v$version/Inventory_KameraV$version.zip",
+                "extract_dir": "Inventory_KameraV$version"
             }
         }
     }
