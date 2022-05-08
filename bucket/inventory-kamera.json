@@ -6,8 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/Andrewthe13th/Inventory_Kamera/releases/download/v1.2.4/Inventory_KameraV1.2.4.zip",
-            "hash": "5d77eb4ef6b5e03f9f58adc470397d6c19c418ffd92bbecc84ea71c729fa51bd",
-            "extract_dir": "Inventory_KameraV1.2.4"
+            "hash": "5d77eb4ef6b5e03f9f58adc470397d6c19c418ffd92bbecc84ea71c729fa51bd"
         }
     },
     "shortcuts": [
@@ -20,8 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/Andrewthe13th/Inventory_Kamera/releases/download/v$version/Inventory_KameraV$version.zip",
-                "extract_dir": "Inventory_KameraV$version"
+                "url": "https://github.com/Andrewthe13th/Inventory_Kamera/releases/download/v$version/Inventory_KameraV$version.zip"
             }
         }
     }
