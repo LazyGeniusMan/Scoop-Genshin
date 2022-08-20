@@ -1,6 +1,6 @@
 param(
     # overwrite upstream param
-    [String]$upstream = "LazyGeniusMan/Scoop-Genshin:main"
+    [String]$upstream = "LazyGeniusMan/Scoop-Genshin:master"
 )
 
 if(!$env:SCOOP_HOME) { $env:SCOOP_HOME = Resolve-Path (scoop prefix scoop) }
