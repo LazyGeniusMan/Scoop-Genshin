@@ -1,7 +1,7 @@
 # Genshin Impact Scoop Bucket
 
 <!-- Uncomment the following line after replacing placeholders -->
-[![Tests](https://github.com/LazyGeniusMan/Scoop-Genshin/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml) [![Excavator](https://github.com/LazyGeniusMan/Scoop-Genshin/actions/workflows/excavator.yml/badge.svg)](https://github.com/LazyGeniusMan/Scoop-Genshin/actions/workflows/excavator.yml)
+[![Tests](https://github.com/LazyGeniusMan/Scoop-Genshin/actions/workflows/ci.yml/badge.svg)](https://github.com/LazyGeniusMan/Scoop-Genshin/actions/workflows/ci.yml) [![Excavator](https://github.com/LazyGeniusMan/Scoop-Genshin/actions/workflows/excavator.yml/badge.svg)](https://github.com/LazyGeniusMan/Scoop-Genshin/actions/workflows/excavator.yml)
 
 This repository is a [Scoop](https://github.com/ScoopInstaller/scoop) bucket for Genshin Impact related tools.
 
