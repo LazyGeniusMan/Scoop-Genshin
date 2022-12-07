@@ -1,12 +1,12 @@
 {
-    "version": "1.3.2",
+    "version": "1.3.3",
     "description": "Scans Genshin Impact characters, artifacts, and weapons from the game window into a JSON file.",
     "homepage": "https://github.com/Andrewthe13th/Inventory_Kamera/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Andrewthe13th/Inventory_Kamera/releases/download/v1.3.2/Inventory_KameraV1.3.2.zip",
-            "hash": "49619b3db1daaf93735dc45fc3fb9e56312db512457a77c31758ec29dc5e83b9"
+            "url": "https://github.com/Andrewthe13th/Inventory_Kamera/releases/download/v1.3.3/Inventory_KameraV1.3.3.zip",
+            "hash": "3e260e7e29484b31abfa2fbf6672f525fc8542fa7e37921e5b9d9bfc51800a28"
         }
     },
     "shortcuts": [
