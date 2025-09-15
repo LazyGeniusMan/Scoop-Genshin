@@ -1,12 +1,12 @@
 {
-    "version": "1.5.1",
+    "version": "3.0.0",
     "description": "OCR-based inventory scanner for Genshin Impact.",
     "homepage": "https://github.com/D1firehail/AdeptiScanner-GI/",
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/D1firehail/AdeptiScanner-GI/releases/download/V1.5.1/AdeptiScanner.V1.5.1.zip",
-            "hash": "2c936c3aea3b6746118dec916b4be59af959a8fa588217c0318ce34c97146d2c",
+            "url": "https://github.com/D1firehail/AdeptiScanner-GI/releases/download/V3.0.0/AdeptiScanner.V3.0.0.zip",
+            "hash": "32e243f970b1a05249468e23dbffef6674d8e2e93f49a2d9b86bd5af0c5ae6df",
             "extract_dir": "AdeptiScanner"
         }
     },
